@@ -21,7 +21,7 @@ export default function PlatformSelector({ onSelectPlatform }: Props) {
     <MenuRoot positioning={{ placement: "right-start" }}>
       <MenuTrigger asChild>
         <Button variant="outline" size="sm">
-          Open
+          Platforms
         </Button>
       </MenuTrigger>
       <MenuContent>
